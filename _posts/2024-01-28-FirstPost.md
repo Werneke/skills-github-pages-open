@@ -1,12 +1,5 @@
 ---
-title: "Werneke´s SAP EWM Blog"
-date: 2024-01-28
+title: "Welcome to my blog"
+date: 2019-01-20
 ---
----
-Hello,
-this is my first SAP Blog about EWM.
-My Name is Jan and Im Working as a Senior Consultant for SAP Logistic Solution.
-I m working freelance. In the past i worked for a large SAP Partner from 2014 until the end of 2021.
-Greetings
-Jan
----
+Testua
